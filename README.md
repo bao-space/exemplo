@@ -1,3 +1,5 @@
-# Banana
+# Clone google
 
-Este é um projeto que ira envolver bla bla
+## Objetivo
+
+Este é um projeto bem simples, que tem como objetivo criar um clone na página do google.
